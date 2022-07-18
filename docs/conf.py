@@ -17,9 +17,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'UvA DL Notebooks'
-copyright = '2022, Phillip Lippe'
-author = 'Phillip Lippe'
+project = 'Notebooks'
+copyright = '2022, Rami Nasser'
+author = 'Rami Nasser'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.2'

@@ -3,14 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the UvA Deep Learning Tutorials!
+Welcome to my Notebooks!
 ===========================================
 
-| *Course website*: https://uvadlc.github.io/
-| *Course edition*: DL1 - Fall 2021, DL2 - Spring 2022, Being kept up to date
-| *Repository*: https://github.com/phlippe/uvadlc_notebooks
-| *Recordings*: `YouTube Playlist <https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA>`_
-| *Author*: Phillip Lippe
+.. | *Course website*: https://uvadlc.github.io/
+.. | *Repository*: https://github.com/phlippe/uvadlc_notebooks
+.. | *Recordings*: `YouTube Playlist <https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA>`_
+.. | *Author*: Phillip Lippe
 
 .. note::
    Interested in learning JAX? We have recently started translating the notebooks from PyTorch to JAX+Flax. Check out our new notebooks in the tab *Deep Learning 1 (JAX+Flax)* to learn how you can speedup the model training with JAX!
@@ -31,27 +30,27 @@ Further, the content presented will be relevant for the graded assignment and ex
 The tutorials have been integrated as official tutorials of PyTorch Lightning.
 Thus, you can also view them in `their documentation <https://pytorch-lightning.readthedocs.io/en/latest/>`_.
 
-Schedule (Deep Learning 1)
---------------------------
+.. Schedule (Deep Learning 1)
+.. --------------------------
 
-+------------------------------------------+---------------------------------------------------+
-| **Date**                                 | **Notebook**                                      |
-+------------------------------------------+---------------------------------------------------+
-| Thursday, 4. November 2021, 13.00-15.00  | Tutorial 2: Introduction to PyTorch               |
-|                                          | Guide 1: Working with the Lisa cluster            |
-+------------------------------------------+---------------------------------------------------+
-| Thursday, 11. November 2021, 13.00-14.00 | Tutorial 3: Activation functions                  |
-+------------------------------------------+---------------------------------------------------+
-| Thursday, 18. November 2021, 13.00-14.00 | Tutorial 4: Optimization and Initialization       |
-+------------------------------------------+---------------------------------------------------+
-| Thursday, 25. November 2021, 13.00-14.00 | Tutorial 5: Inception, ResNet and DenseNet        |
-+------------------------------------------+---------------------------------------------------+
-| Thursday, 2. December 2021, 13.00-14.00  | Tutorial 7: Graph Neural Networks                 |
-+------------------------------------------+---------------------------------------------------+
-| Thursday, 9. December 2021, 13.00-14.00  | Tutorial 6: Transformers and Multi-Head Attention |
-+------------------------------------------+---------------------------------------------------+
-| Thursday, 16. December 2021, 13.00-14.00 | Tutorial 9: Deep Autoencoders                     |
-+------------------------------------------+---------------------------------------------------+
+.. +------------------------------------------+---------------------------------------------------+
+.. | **Date**                                 | **Notebook**                                      |
+.. +------------------------------------------+---------------------------------------------------+
+.. | Thursday, 4. November 2021, 13.00-15.00  | Tutorial 2: Introduction to PyTorch               |
+.. |                                          | Guide 1: Working with the Lisa cluster            |
+.. +------------------------------------------+---------------------------------------------------+
+.. | Thursday, 11. November 2021, 13.00-14.00 | Tutorial 3: Activation functions                  |
+.. +------------------------------------------+---------------------------------------------------+
+.. | Thursday, 18. November 2021, 13.00-14.00 | Tutorial 4: Optimization and Initialization       |
+.. +------------------------------------------+---------------------------------------------------+
+.. | Thursday, 25. November 2021, 13.00-14.00 | Tutorial 5: Inception, ResNet and DenseNet        |
+.. +------------------------------------------+---------------------------------------------------+
+.. | Thursday, 2. December 2021, 13.00-14.00  | Tutorial 7: Graph Neural Networks                 |
+.. +------------------------------------------+---------------------------------------------------+
+.. | Thursday, 9. December 2021, 13.00-14.00  | Tutorial 6: Transformers and Multi-Head Attention |
+.. +------------------------------------------+---------------------------------------------------+
+.. | Thursday, 16. December 2021, 13.00-14.00 | Tutorial 9: Deep Autoencoders                     |
+.. +------------------------------------------+---------------------------------------------------+
 
 How to run the notebooks
 ------------------------
@@ -90,19 +89,19 @@ We will discuss 7 of the tutorials in the course, spread across lectures to cove
 - Tutorial 17: Self-Supervised Contrastive Learning with SimCLR
 
 
-Feedback, Questions or Contributions
-------------------------------------
+.. Feedback, Questions or Contributions
+.. ------------------------------------
 
-This is the first time we present these tutorials during the Deep Learning course. As with any other project, small bugs and issues are expected. We appreciate any feedback from students, whether it is about a spelling mistake, implementation bug, or suggestions for improvements/additions to the notebooks. Please use the following `link <https://forms.gle/kENuNvcCq3LzQWDA8>`_ to submit feedback, or feel free to reach out to me directly per mail (p dot lippe at uva dot nl), or grab me during any TA session.
+.. This is the first time we present these tutorials during the Deep Learning course. As with any other project, small bugs and issues are expected. We appreciate any feedback from students, whether it is about a spelling mistake, implementation bug, or suggestions for improvements/additions to the notebooks. Please use the following `link <https://forms.gle/kENuNvcCq3LzQWDA8>`_ to submit feedback, or feel free to reach out to me directly per mail (p dot lippe at uva dot nl), or grab me during any TA session.
 
-If you find the tutorials helpful and would like to cite them, you can use the following bibtex::
+.. If you find the tutorials helpful and would like to cite them, you can use the following bibtex::
 
-   @misc{lippe2022uvadlc,
-      title        = {{UvA Deep Learning Tutorials}},
-      author       = {Phillip Lippe},
-      year         = 2022,
-      howpublished = {\url{https://uvadlc-notebooks.readthedocs.io/en/latest/}}
-   }
+..    @misc{lippe2022uvadlc,
+..       title        = {{UvA Deep Learning Tutorials}},
+..       author       = {Phillip Lippe},
+..       year         = 2022,
+..       howpublished = {\url{https://uvadlc-notebooks.readthedocs.io/en/latest/}}
+..    }
 
 
 .. toctree::
